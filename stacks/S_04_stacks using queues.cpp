@@ -2,8 +2,8 @@
 
 /*
 
-stack using queues
-
+stack using queues making push costly
+method 1
 */
 
 
