@@ -5,6 +5,7 @@
 //ex: n1 students have took math, n2 students science, n3 students took both 
 
 //inclusion exclusion principle in functions
+//number theory concept
 
 #include<bits/stdc++.h>
 
