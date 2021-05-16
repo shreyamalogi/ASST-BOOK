@@ -16,6 +16,8 @@
 //24%18=5
 //18%6=0
 
+//number theory
+
 #include<iostream>
 using namespace std;
 
