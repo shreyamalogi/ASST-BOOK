@@ -2,9 +2,6 @@
 
 //SUM OF FIRST N NATURAL NUMBERS
 
-#include<bits/stdc++.h>
-
-using namespace std;
 
 //eg: ans += i; is like your friend keeping track of the total number of candies. 
 //The += means "add and update." So, every time your friend sees a new candy (represented by i), 
@@ -18,6 +15,13 @@ using namespace std;
 
 
 // ans = ans + i
+
+
+#include<bits/stdc++.h>
+
+using namespace std;
+
+
 
 int sum(int n){
 	int ans =0;
