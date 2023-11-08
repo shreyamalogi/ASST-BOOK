@@ -2,10 +2,12 @@
 
 //an array is a list of variables of same similar type
 //it is single block of memory with partitions
-
+// starts from 0th index....we can acces thru index number eg: "shreya", now u want h so s[1] will give u "h"
+//anything inside [] means index accessing thru index numbers
 //syntax: datatype arrayname[size];
 
-//limitations: fixed size, contiguous blocks of memory, insertion or deletion is costly
+//limitations: fixed size, contiguous blocks of memory stored at any random memory loaction in cpu, 
+// insertion or deletion is costly
 
 #include<bits/stdc++.h>
 
